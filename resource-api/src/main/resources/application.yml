@@ -1,1 +1,5 @@
-# Resource API Config
+server:
+  port: 8082
+spring:
+  application:
+    name: resource-api# Resource API Config
